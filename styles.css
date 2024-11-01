@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f2f5;
+    color: #333;
+}
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+.product-card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+.product-card:hover .product-image {
+    transform: scale(1.05);
+}
+.product-info {
+    padding: 15px;
+}
+.product-name {
+    font-size: 1em;
+    font-weight: 600;
+    margin: 0 0 5px;
+    color: #2c3e50;
+}
+.product-price{
+    color: rgba(0, 0, 0, 0.5);
+}
+.product-artist {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin: 0;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 90%;
+    max-height: 90%;
+}
+.modal-image {
+    width: 100%;
+    height: auto;
+    max-height: 90vh;
+    object-fit: contain;
+}
+.close {
+    color: #fff;
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+footer {
+    
+    color: #ecf0f1;
+    padding: 40px 0;
+    text-align: center;
+}
+.social-links {
+    margin-bottom: 20px;
+}
+.social-links a {
+    color: #000000;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+.social-links a:hover {
+    color: #0985eb;
+}
+.footer-text {
+    font-size: 0.9em;
+    color: #000000;
+}
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
