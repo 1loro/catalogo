@@ -6,7 +6,7 @@ Bienvenido al **Catálogo de Poleras** de mi tienda en Instagram. Este proyecto 
 
 El catálogo está disponible públicamente en GitHub Pages, permitiendo a los clientes navegarlo sin necesidad de iniciar sesión.
 
-**Link del catálogo:** [https://1loro.github.io/catalogo]((https://1loro.github.io/catalogo/))
+**Link del catálogo:** [https://1loro.github.io/catalogo](https://1loro.github.io/catalogo/)
 
 
 
