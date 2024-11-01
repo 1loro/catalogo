@@ -10,10 +10,9 @@ El catálogo está disponible públicamente en GitHub Pages, permitiendo a los c
 
 
 
-### 🖼️ Funcionalidades
 
-- **Catálogo de Productos**: Muestra las poleras disponibles con imagen, nombre y precio.
-- **Interfaz Sencilla**: Diseño intuitivo y atractivo, permitiendo una navegación fácil para cualquier usuario.
+
+    
 
 ### 📲 Enlace a nuestra Tienda en Instagram
 
