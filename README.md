@@ -1,6 +1,6 @@
-# Catálogo de Poleras - Fring Store
+# Catálogo  - Fring Store
 
-Bienvenido al **Catálogo de Poleras** de mi tienda en Instagram. Este proyecto es una página estática diseñada para mostrar los diseños de poleras disponibles en nuestro inventario. Los clientes pueden acceder al catálogo de manera rápida y sencilla para ver todos los productos que ofrecemos.
+Bienvenido al **Catálogo** de mi tienda en Instagram. Este proyecto es una página estática diseñada para mostrar los diseños de poleras disponibles en nuestro inventario y otros productos. Los clientes pueden acceder al catálogo de manera rápida y sencilla para ver todos los productos que ofrecemos.
 
 ### 🌐 GitHub Pages
 
