@@ -12,7 +12,7 @@ El catálogo está disponible públicamente en GitHub Pages, permitiendo a los c
 
 
 
-    
+---    
 
 ### 📲 Enlace a nuestra Tienda en Instagram
 
@@ -20,4 +20,4 @@ Para obtener más información o realizar una compra, visita nuestro perfil de I
 
 ---
 
-Gracias por visitar nuestro catálogo de poleras.
+Gracias por visitar nuestro catálogo.
